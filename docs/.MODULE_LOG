@@ -1,0 +1,16 @@
+>>
+Script is used     : create_e3_modules.bash
+Script Path        : /home/jhlee/e3/tools/template_gen
+User               : jhlee
+Log Time           : 2018Jun25-2333-47CEST
+e3 repo Hash       : 4b38b0a
+>> 
+EPICS_MODULE_NAME  :                                                          pva2pva
+E3_MODULE_SRC_PATH :                                                          pva2pva
+EPICS_MODULE_URL   :                                    https://github.com/epics-base
+E3_TARGET_URL      :                                        https://github.com/icshwi
+>> 
+e3 module name     :                                                       e3-pva2pva
+e3 module url full :                            https://github.com/epics-base/pva2pva
+e3 target url full :                             https://github.com/icshwi/e3-pva2pva
+>> 
